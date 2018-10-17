@@ -1,0 +1,5 @@
+Files
+Python install:
+    httpss://cloud.google.com/python/setup
+}
+pubaccess.py: this little snip shows how to use python client lib to access bigquery
